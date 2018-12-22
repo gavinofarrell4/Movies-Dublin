@@ -1,0 +1,174 @@
+body{
+    background-color: #fdf5e6;
+}
+
+nav{
+    border-radius: 15px;
+    margin-top: 20px;
+    background-color: #c0392b !important; 
+}
+.container{
+	border-style: groove;
+	border-width: 15px;
+	border-color: #c0392b;
+	box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+}
+.one{
+    
+    align-items: center;
+}
+
+.two{
+    align-self: center;
+    
+}
+
+.three{
+    margin-left: auto;
+}
+
+.four{
+    margin-left:auto;;
+    margin-right:auto;
+}
+
+.five{
+	margin: auto;
+	margin-top: 20px;
+	border-style: solid;
+	border-width: thick;
+	border-left-color: #ebebeb;
+	box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+
+.six:hover {
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+.seven{
+	margin-top: 10px;
+}
+
+.eight{
+	width: 125px;
+	height: 140px;
+	border-style: solid;
+	border-width: thick;
+}
+
+.nine{
+	box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+
+.a{
+    text-align: center;
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.b{
+    background-color: #ebebeb;
+}
+
+.c{
+    text-align: center;
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+	font-size: 30pt;
+    font-weight: bold;
+    
+}
+
+.d{
+    text-align: center;
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+	font-size: 24pt;
+    
+    
+}
+
+.e{
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+	font-size: 18pt;
+   
+    
+}
+
+.f{
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+	font-size: 14pt;
+    
+    
+}
+.g{
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+	font-size: 18pt;
+	color: white;
+    
+    
+}
+
+.h{
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+	font-size: 18pt;
+	color: white;
+	text-decoration-line: underline;
+    
+    
+}
+
+.reg1{
+	text-decoration: underline;
+}
+
+.links1{
+	margin-right: auto;
+}
+
+.table1{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.checked {
+  color: orange;
+}
+
+footer{
+	background-color: dimgray;
+}
+
+.formA{
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+input{
+	width: 100%;
+	padding: 5px;
+}
+
+input[type=text] {
+  border-radius: 4px;
+  border-color: #D3D3D3;
+}
+
+input[type=email] {
+  border-radius: 4px;
+}
+
+input[type=text]:focus {
+  background-color: #ADD8E6;
+  border-color: #000000;
+  border-width: thin;
+}
+
+input[type=email]:focus {
+  background-color: #ADD8E6;
+}
+
+table, th, td {
+  border: 3px solid black;
+}
